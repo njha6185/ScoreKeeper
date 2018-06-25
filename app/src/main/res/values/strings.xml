@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="heading_cricket_scoreboard">CRICKET SCOREBOARD</string>
+    <string name="select_team_1_text">Select Team 1 :</string>
+    <string name="select_team_2_text">Select Team 2 :</string>
+    <string name="v_s">V/S</string>
+    <string name="select_no_of_overs_text">Select No. of Overs :</string>
+    <string name="start_game_text">Start Game</string>
+    <string name="match_scoreboard_text">MATCH SCOREBOARD</string>
+    <string name="team1_score">0/0\n0.0</string>
+    <string name="dot_ball_text">0</string>
+    <string name="no_ball_text">NO BALL</string>
+    <string name="wide_ball_text">WIDE BALL</string>
+    <string name="_1_run">1</string>
+    <string name="_2_run">2</string>
+    <string name="_3_run">3</string>
+    <string name="_4_run">4</string>
+    <string name="_5_run">5</string>
+    <string name="_6_run">6</string>
+    <string name="out_text">OUT</string>
+    <string name="restart_match">RESTART MATCH</string>
+    <string name="team_declared">TEAM DECLARED</string>
+    <string name="abandon">ABANDON</string>
+    <string name="ex_1">EX(+1)</string>
+    <string name="reset_match">RESET</string>
+
+    <string-array name="team_name">
+        <item>IND</item>
+        <item>PAK</item>
+        <item>AUS</item>
+        <item>WIN</item>
+        <item>SAE</item>
+        <item>BAN</item>
+        <item>ENG</item>
+        <item>NZ</item>
+        <item>SL</item>
+    </string-array>
+
+    <string-array name="overs">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+    </string-array>
+
+</resources>
